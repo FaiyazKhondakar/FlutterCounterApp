@@ -1,0 +1,5 @@
+1. getx
+2. state Management - for single state management we use obs
+    -for multiple state management we use getxColtroller
+3. create controller to use state Management
+4. dependency container --- for using same object in multiple pages.
